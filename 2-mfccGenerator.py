@@ -3,26 +3,6 @@ import os
 import matplotlib.pyplot as plt, librosa, librosa.display
 
 '''
-	Input File Structure : 
-						input
-						/    \
-					      raw     segmented
-						      /  | ....\
-						 lang1 lang2   langn
-						/ |...\  ...     ....
-					channel1 ch2  chn
-					 |    |  ...  ...
-				       .wav.. .wav 
-
-	Output File Structure :
-						output
-					      /  | ....\
-                                          lang1 lang2   langn
-					 /  |..\  ...     ....
-                                 channel1 ch2.. chn 
-				    |    |  ... ...
-				 .png.. .png 
-
 (!!* IMP *!!)	NOTE :- Source folder is mandatory for the code to run   <DEPENDENCY ALERT>
 '''
 
