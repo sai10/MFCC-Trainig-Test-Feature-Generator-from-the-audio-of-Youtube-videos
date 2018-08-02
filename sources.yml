@@ -1,0 +1,34 @@
+english:
+  users:
+    - bbcnews
+    - CNN
+    - VOAvideo
+  playlists:
+    -
+hindi:
+  users:
+    - aajtaktv
+    - bbchindi
+  playlists:
+    -
+arabic:
+  users:
+    - aljazeerachannel
+    - bbcarabic
+  playlists:
+    -
+bengali:
+  users:
+    - abpanandatv
+    - 24 ghanta
+  playlists:
+    -
+chinese:
+  users:
+    - cctv
+    - 24 ghanta
+  playlists:
+    -
+
+
+
